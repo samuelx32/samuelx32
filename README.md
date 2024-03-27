@@ -1,5 +1,5 @@
 ### Bem vindo. 👋
-### Abaixo deixei meus estudos ou projetos de programação.
+### Abaixo deixei meus estudos e/ou projetos de programação.
 
 <!--
 **samuelx32/samuelx32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
