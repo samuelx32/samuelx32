@@ -1,7 +1,8 @@
 ### Bem vindo. 👋
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuelx32&theme=#fff&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?samuelx32=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 ### Abaixo deixei meus estudos e/ou projetos de programação.
