@@ -1,7 +1,7 @@
 ### Bem vindo. 👋
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=samuelx32&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrin.vercel.app/api/top-langs/?username=samuelx32&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-samuelx32.vercel.app/api/top-langs/?username=samuelx32&show_icons=true&theme=radical&layout=compact" />
  </div>
 ### Abaixo deixei meus estudos e/ou projetos de programação.
 
