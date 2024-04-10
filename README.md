@@ -4,7 +4,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samuelx32&theme=whatsapp-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
-### Abaixo deixei meus estudos e/ou projetos de programação.
 
 <!--
 **samuelx32/samuelx32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
